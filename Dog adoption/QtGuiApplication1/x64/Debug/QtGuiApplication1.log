@@ -1,0 +1,12 @@
+﻿  AdoptionList.cpp
+  Controller.cpp
+  Dog.cpp
+  main.cpp
+  QtGuiApplication1.cpp
+  Repository.cpp
+  Teste.cpp
+  MyUi.cpp
+c:\users\trasc\source\repos\qtguiapplication1\qtguiapplication1\teste.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  qrc_QtGuiApplication1.cpp
+  moc_QtGuiApplication1.cpp
+  QtGuiApplication1.vcxproj -> C:\Users\trasc\source\repos\QtGuiApplication1\x64\Debug\QtGuiApplication1.exe

@@ -1,0 +1,10 @@
+Breed:breed1,Name:name1,of age:5,Photo:https://www.google.ro/search?q=caine&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjykMml67PiAhXOIlAKHRzXAH0Q_AUIDigB&biw=1536&bih=754#imgrc=X4BTpJr000xEnM:
+Breed:breed3,Name:name3,of age:5,Photo:https://www.google.ro/search?q=caine&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjykMml67PiAhXOIlAKHRzXAH0Q_AUIDigB&biw=1536&bih=754#imgrc=LlQt9TNjgnizuM:
+Breed:breed4,Name:name4,of age:12,Photo:https://www.google.ro/search?q=caine&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjykMml67PiAhXOIlAKHRzXAH0Q_AUIDigB&biw=1536&bih=754#imgrc=LlQt9TNjgnizuM:
+Breed:breed5,Name:name5,of age:10,Photo:https://www.google.ro/search?q=caine&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjykMml67PiAhXOIlAKHRzXAH0Q_AUIDigB&biw=1536&bih=754#imgrc=LlQt9TNjgnizuM:
+Breed:breed6,Name:name6,of age:2,Photo:https://www.google.ro/search?q=caine&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjykMml67PiAhXOIlAKHRzXAH0Q_AUIDigB&biw=1536&bih=754#imgrc=LlQt9TNjgnizuM:
+Breed:dog german,Name:rex,of age:13,Photo:https://www.google.ro/search?q=dog+german&source=lnms&tbm=isch&sa=X&ved=0ahUKEwio8vHc67PiAhUKalAKHXazChQQ_AUIDigB&biw=1536&bih=754#imgrc=Ic_LWf5rWJ1NYM:
+Breed:ciobanesc,Name:bella,of age:2,Photo:https://www.google.ro/search?biw=1536&bih=754&tbm=isch&sa=1&ei=w7fnXImmIeSG1fAP5P-S2A0&q=ciobanesc&oq=ciobanesc&gs_l=img.3..0i67l4j0j0i67l3j0l2.13283.14733..14859...0.0..0.111.945.1j9......0....1..gws-wiz-img.....0..35i39.H4JZa2KyP5w#imgrc=bYcKulvcFiwrzM:
+Breed:golden retriever,Name:max,of age:4,Photo:https://www.google.ro/search?biw=1536&bih=754&tbm=isch&sa=1&ei=0rfnXLfPO8ym1fAPk6i9qAU&q=golden+retriever&oq=golden+r&gs_l=img.1.0.0i67j0l9.16372.17550..18153...0.0..0.117.843.1j8......0....1..gws-wiz-img.....0..35i39.v5ygZeXBOZo#imgrc=avhfBw2-tE6NDM:
+Breed:husky,Name:bellisima,of age:3,Photo:https://www.google.ro/search?q=husky&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqtKH_9rPiAhVj5aYKHcttB3sQ_AUIDigB&biw=1536&bih=754#imgrc=Kb281OdiKnZZfM:
+Breed:husky,Name:rexi,of age:13,Photo:link1
